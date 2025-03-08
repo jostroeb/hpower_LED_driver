@@ -1,4 +1,4 @@
-This is a university project, where we developed a high power LED System with focus on the electric properties.
+This is an university project, where we developed a high power LED System with focus on the electric properties.
 It featueres a USB-PD power supply, 40W RGBW LED and a ESP32 for control.
 
 ![platine_3d](https://github.com/user-attachments/assets/cd8dfe94-13e8-47e3-9942-9c2d614d3cee)

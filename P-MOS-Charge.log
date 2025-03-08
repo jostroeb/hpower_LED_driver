@@ -1,0 +1,22 @@
+Circuit: * C:\Users\ZOJSTROE\OneDrive - Carl Zeiss AG\Hochschule\ET3\Projekt\P-MOS-Charge.asc
+
+Per .tran options, skipping operating point for transient analysis.
+
+Date: Tue Nov 21 00:24:10 2023
+Total elapsed time: 0.060 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2082
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 4
+fillins = 0
+solver = Normal
+Avg thread counts: 1.7/2.3/2.3/1.7
+Matrix Compiler1: 118 bytes object code size  0.2/0.2/[0.1]
+Matrix Compiler2: 248 bytes object code size  0.1/0.1/[0.1]
+
